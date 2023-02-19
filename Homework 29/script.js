@@ -8,6 +8,6 @@ let userAge= currentYear-userYear;
 alert("Your age is" +" "+ userAge);
 
 
-let squareSide = +prompt("the length of square's side is');
+let squareSide = +prompt("the length of square's side is");
 let perimeter = squareSide*4;
 alert("Perimeter of the square is" +" "+ perimeter);
